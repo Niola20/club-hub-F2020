@@ -13,11 +13,8 @@ import Login from "./routes/Login";
 import About from "./routes/About";
 import Home from "./routes/Home";
 
-//nelson was here
+//Eniola is here
 
-//anthony was here
-
-// chris was here
 
 function App() {
   return (
